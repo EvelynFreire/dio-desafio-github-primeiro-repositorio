@@ -1,9 +1,3 @@
 Comandos do Git Bash:
-cd
-git status
-git clone  /para clonar um repositório na sua máquina/
 
 Comandos para empurrar da máquina para o GitHub (na ordem):
-git add .         /or/      git add -A
-git commint -m "/mensagem/"
-git push origin main
