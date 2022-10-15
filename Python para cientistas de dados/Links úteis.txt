@@ -1,0 +1,4 @@
+Links úteis:
+
+[Portugol](https://portugol-webstudio.cubos.io/ide)
+[Colab Notebook] (https://colab.research.google.com/)
