@@ -1,4 +1,6 @@
 Links úteis:
 
 [Portugol](https://portugol-webstudio.cubos.io/ide)
-[Colab Notebook] (https://colab.research.google.com/)
+[Colab Notebook](https://colab.research.google.com/)
+[Baixar o Python no Windows](https://python.org.br/instalacao-windows/) Instruções para instalar e sobre IDE.
+[VSCode](https://code.visualstudio.com/) Para baixar.
